@@ -1,0 +1,2 @@
+# Scylla
+Crypto prediction app
